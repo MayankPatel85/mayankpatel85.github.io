@@ -36,6 +36,11 @@ a {
     text-align: left;
 }
 
+.project h5 a {
+    text-decoration: none;
+    color: white;
+}
+
 .projectimg {
     max-width: 100%;
     display: block;
